@@ -1,12 +1,13 @@
 # 8-puzzle solved with A* algorithm
 A* algorithm to solve any given 8-puzzle problem with a chosen heuristic
 
-Installation
+##Installation
 
-This program only requires the installation of numpy which can be installed by doing;
+This program only requires the installation of numpy which can be installed by doing:
+
 pip install numpy
 
-Getting started
+##Getting started
 
 Run the python script and there are three options, which are to use a default grid, enter a grid or run test cases.
 
